@@ -1,0 +1,162 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+header {
+  background-color: black;
+}
+.centerd {
+  width: 980px;
+  margin: 0 auto;
+}
+.horizontal-container {
+  display: flex;
+  -webkit-box-pack: justify; /* find out what this does */
+  justify-content: space-between;
+}
+header nav ul li {
+  padding: 14px 0 8px;
+}
+header nav ul li a {
+  color: #fff;
+  font-weight: 200;
+  height: 25px;
+  opacity: 0.8;
+}
+header nav ul li a:hover {
+  opacity: 1;
+}
+
+.nav-icon {
+  width: 18px;
+}
+#nav-cart {
+  padding: 12px 0 8px;
+}
+#nav-logo {
+  padding: 11px 0 8px;
+}
+#main-highlight {
+  background-color: #fafafa;
+}
+.centerd-text {
+  text-align: center;
+  padding: 20px 0 0;
+}
+
+.buy li {
+  display: inline-block;
+  padding: 20px 10px 20px;
+}
+.buy li a {
+  color: #06c;
+}
+.buy li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+.buy li a:hover {
+  color: #000;
+}
+
+.centerd-img {
+  display: block;
+  margin: 0 auto;
+}
+#mac {
+  padding: 20px 0;
+}
+#model {
+  font-size: 0.85em;
+}
+.product-title {
+  font-weight: 700;
+  font-size: 56px;
+}
+.brief-description {
+  font-size: 2em;
+}
+#iphone-11-pro {
+  background-image: url("./images/home/iphone11-pro-bg.jpg");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 45px 20px 65px;
+  color: #fff;
+}
+.price {
+  color: #86868b;
+  font-size: 0.85em;
+}
+#iphone-11 {
+  background-image: url("./images/home/iphone11-bg.jpg");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 65px 20px;
+  color: #000000;
+}
+footer {
+  background-color: #f5f5f7;
+  color: #1d1d1f;
+  font-size: small;
+}
+#transaction-term-summary {
+  padding: 17px 0 20px;
+  border-bottom: 1px solid #d2d2d7;
+}
+#transaction-term-summary p {
+  color: #86868b;
+}
+
+.line-decorated-link {
+  color: #515154;
+}
+.line-decorated-link:hover,
+#find-link a:hover {
+  text-decoration: underline;
+}
+
+#footer-link-1 {
+  padding-top: 20px;
+}
+.footer-link {
+  padding-bottom: 20px;
+}
+.footer-link ul li {
+  padding: 5px 0;
+}
+#find-link {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d2d2d7;
+}
+#footer-nav-country {
+  padding: 15px 0px 20px;
+}
+#footer-nav li {
+  display: inline-block;
+  padding: 0 5px;
+  border-right: 1px solid #ccc;
+}
+
+#footer-nav li:last-child {
+  border-right: 0px;
+}
+
+#flag {
+  padding-right: 5px;
+}
