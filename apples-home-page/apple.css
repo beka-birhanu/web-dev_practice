@@ -60,6 +60,7 @@ header nav ul li a:hover {
 }
 .buy li a {
   color: #06c;
+  font-size: 23px;
 }
 .buy li a:after {
   font-family: "FontAwesome";
@@ -110,6 +111,66 @@ header nav ul li a:hover {
   padding: 65px 20px;
   color: #000000;
 }
+.stacked {
+  margin: 0.8% 0.8% 0 0.8%;
+  width: 49.2%;
+}
+#right {
+  margin-left: 0%;
+}
+.silver-box {
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0.8rem;
+  padding-top: 60px;
+}
+#apple-watch {
+  background-image: url(./images/home/watch-series-5.jpg);
+}
+#apple-tv {
+  background-image: url(./images/home/apple-tv-background.jpg);
+}
+#tvshow-logo-wraper {
+  padding: 180px 0 200px;
+}
+#watch {
+  color: #06c;
+}
+#watch:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+#mac-pro {
+  background-image: url(./images/home/macbook-pro.jpg);
+  background-size: initial;
+  background-color: #fafafa;
+  background-position: bottom;
+  margin-bottom: 0;
+}
+#apple-card {
+  background-image: url(./images/home/apple-card.jpg);
+}
+#airpods {
+  background-image: url(./images/home/air-pods.jpg);
+  background-size: initial;
+  color: #fff;
+  background-color: #000;
+  background-position: bottom;
+}
+#iPad {
+  background-image: url(./images/home/new-ipad.jpg);
+  margin-bottom: 0;
+}
+.logo {
+  padding-bottom: 20px;
+}
+.description {
+  font-size: 22px;
+}
 footer {
   background-color: #f5f5f7;
   color: #1d1d1f;
@@ -140,6 +201,10 @@ footer {
 .footer-link ul li {
   padding: 5px 0;
 }
+#find-link p a {
+  text-decoration: underline;
+}
+
 #find-link {
   padding-bottom: 10px;
   border-bottom: 1px solid #d2d2d7;
