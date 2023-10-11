@@ -1,5 +1,4 @@
-body,
-.boarder * {
+* {
   margin: 0px;
 }
 img {
@@ -14,7 +13,6 @@ img {
 header {
   padding-top: 28px;
   padding-bottom: 24px;
-  margin: 0px;
 }
 #banner {
   margin-bottom: 84px;
