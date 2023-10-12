@@ -17,7 +17,7 @@ This repository contains some of the web apps that I created as part of my web d
 
 This app is a replica of the Apple home page using HTML and CSS. I made this app to practice the basics of CSS layout, such as containers, units (px, em, rem, %), positioning, flexbox, grid, etc.
 
-![design of Apple Home Page Replica](./apples-home-page/images/apple-home-page-desktop-design.jpeg )
+![design of Apple Home Page Replica](./apples-home-page/images/apple-home-page-desktop-design.jpeg ){style="display: block; margin: 0 auto" }
 
 [Live Demo](to be included when hosted)
 
@@ -25,14 +25,9 @@ This app is a replica of the Apple home page using HTML and CSS. I made this app
 
 This app is a web page for puppy lovers based on a design provided by the Evangadi Tech instructors on my course of full stack (MERN stack). The purpose of this app is to learn how to make a web page responsive using only the @media tag in CSS.
 
-img.left {
-  float: left;
-}
+| Desktop Version | Mobile Version |
+|:---------------:|:--------------:|
+| ! [Screenshot of Puppy Lovers Page] (./puppy-lovers/images/puppy-lovers-page-design.jpg) | ! [Screenshot of Puppy Lovers Page on mobile] (./puppy-lovers/images/puppyMobileDesign.jpg) |
 
-img.right {
-  float: right;
-}
-! [Screenshot of Puppy Lovers Page] (./puppy-lovers/images/puppy-lovers-page-design.jpg){: .left}
-! [Screenshot of Puppy Lovers Page on mobile] (./puppy-lovers/images/puppyMobileDesign.jpg){: .right}
 
 [Live Demo](to be included when hosted)
