@@ -25,7 +25,7 @@ This app is a replica of the Apple home page using HTML and CSS. I made this app
 
 This app is a web page for puppy lovers based on a design provided by the Evangadi Tech instructors on my course of full stack (MERN stack). The purpose of this app is to learn how to make a web page responsive using only the @media tag in CSS.
 
-![Screenshot of Puppy Lovers Page](./puppy-lovers/images/puppy-lovers-page-design.jpeg)
-![Screenshot of Puppy Lovers Page](./puppy-lovers/images/puppyMobileDesign.jpeg)
+![Screenshot of Puppy Lovers Page](./puppy-lovers/images/puppy-lovers-page-design.jpg)
+![Screenshot of Puppy Lovers Page](./puppy-lovers/images/puppyMobileDesign.jpg)
 
 [Live Demo](to be included when hosted)
