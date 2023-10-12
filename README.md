@@ -17,7 +17,7 @@ This repository contains some of the web apps that I created as part of my web d
 
 This app is a replica of the Apple home page using HTML and CSS. I made this app to practice the basics of CSS layout, such as containers, units (px, em, rem, %), positioning, flexbox, grid, etc.
 
-![design of Apple Home Page Replica](./apples-home-page/images/apple-home-page-desktop-design.jpeg #center )
+![design of Apple Home Page Replica](./apples-home-page/images/apple-home-page-desktop-design.jpeg#center )
 
 [Live Demo](to be included when hosted)
 
